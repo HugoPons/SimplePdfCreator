@@ -1,0 +1,14 @@
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.AssemblyReference.cache
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.CoreCompileInputs.cache
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\PdfMerge.exe.config
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\PdfMerge.exe
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\PdfMerge.pdb
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\obj\Debug\PdfMerge.csproj.CopyComplete
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\obj\Debug\PdfMerge.exe
+C:\Users\administrateur\source\repos\PdfMerge\PdfMerge\obj\Debug\PdfMerge.pdb

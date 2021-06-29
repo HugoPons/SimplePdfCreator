@@ -1,0 +1,14 @@
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\ImageToPdf.exe.config
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\ImageToPdf.exe
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\ImageToPdf.pdb
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\obj\Debug\ImageToPdf.csproj.AssemblyReference.cache
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\obj\Debug\ImageToPdf.csproj.CoreCompileInputs.cache
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\obj\Debug\ImageToPdf.csproj.CopyComplete
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\obj\Debug\ImageToPdf.exe
+C:\Users\administrateur\source\repos\ImageToPdf\ImageToPdf\obj\Debug\ImageToPdf.pdb
